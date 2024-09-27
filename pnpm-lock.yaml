@@ -14,9 +14,6 @@ importers:
       '@tailwindcss/forms':
         specifier: ^0.5.7
         version: 0.5.7(tailwindcss@3.4.4)
-      '@types/next':
-        specifier: ^9.0.0
-        version: 9.0.0(react-dom@19.0.0-rc-f38c22b244-20240704(react@19.0.0-rc-f38c22b244-20240704))(react@19.0.0-rc-f38c22b244-20240704)
       '@vercel/postgres':
         specifier: ^0.8.0
         version: 0.8.0
@@ -60,6 +57,9 @@ importers:
       '@types/bcrypt':
         specifier: ^5.0.2
         version: 5.0.2
+      '@types/next':
+        specifier: ^9.0.0
+        version: 9.0.0(react-dom@19.0.0-rc-f38c22b244-20240704(react@19.0.0-rc-f38c22b244-20240704))(react@19.0.0-rc-f38c22b244-20240704)
       '@types/node':
         specifier: 20.14.8
         version: 20.14.8
